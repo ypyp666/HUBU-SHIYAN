@@ -3,4 +3,4 @@ site_description: 使用 MkDocs 和 GitHub Actions 部署的静态站点
 site_author: 你的姓名
 
 theme:
-  name: Remiss YXZ
+  name: material
